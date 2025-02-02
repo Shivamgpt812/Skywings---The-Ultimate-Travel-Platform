@@ -1,6 +1,6 @@
 # Valicode | Skywings ✈️🌍
 
-Welcome to **Valicode**, the ultimate travel platform where we elevate your travel journey to new heights! 🌟
+Welcome to **Skywings**, the ultimate travel platform where we elevate your travel journey to new heights! 🌟
 
 ## Features
 
